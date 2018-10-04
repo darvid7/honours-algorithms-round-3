@@ -1,0 +1,16 @@
+/Users/David/Desktop/HONOURS/honours-algorithms-round-3/venv/bin/python /Users/David/Desktop/HONOURS/honours-algorithms-round-3/models/fml.py
+{0: [75, 963], 1: [13, 9332], 2: [22, 5645], 3: [1110, 43131]}
+{0: [49, 963], 1: [28, 9332], 2: [13, 5645], 3: [629, 43131]}
+[caiculate_fail_hits_at_10 for ../../honours-data-round-2/FB15K/model_out/evaluation/d2v_suggested_pv_dbow] took 1.5290629347165425 minutes
+Hits @ 10 predicting heads
+	one-to-one: 49/963 = 0.05088265835929388
+	many-to-one: 28/9332 = 0.0030004286326618087
+	one-to-many: 13/5645 = 0.0023029229406554474
+	many-to-many: 629/43131 = 0.014583478240708539
+Hits @ 10 predicting tails
+	one-to-one: 75/963 = 0.0778816199376947
+	many-to-one: 13/9332 = 0.001393056150878697
+	one-to-many: 22/5645 = 0.0038972542072630645
+	many-to-many: 1110/43131 = 0.02573554983654448
+
+Process finished with exit code 0
